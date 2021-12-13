@@ -1,0 +1,17 @@
+Perk_ID,Perk_Name,Perk_Type,Perk_Mobility,Perk_Defense,Perk_Upgrades,Perk_Desc
+1,Lightweight,Perk1,1,0,0,Allows you to move faster than normal + no damage from falling.
+2,Flat Jacket,Perk1,0,1,0,Take less explosive damage
+3,Blind Eye,Perk1,1,0,0,AI-controlled air support Scorestreaks can't detect you
+4,Hardline,Perk1,0,0,1,"Allows you to earn bonus points for each action taken, which earns you Scorestreaks faster"
+5,Ghost,Perk1,1,0,0,"Enemy UAV can't detect you while moving, but if you stand still it will detect you"
+6,Hardwire,Perk2,1,0,0,Become immune to enemy Counter UAV and EMP
+7,Scavenger,Perk2,0,0,1,Allows you to replenish ammo and equipment from enemies that were killed
+8,Cold Blooded,Perk2,1,0,0,Makes you invisible to enemy targeting systems.
+9,Fast Hands,Perk2,1,0,0,"Allows you to swap weapons faster, use quipment faster, and safely throw back enemy grenades"
+10,Thoughness,Perk2,0,1,0,Flinch less when shot by enemy
+11,Dexterity,Perk3,1,0,0,Makes you climb ladders and mantel over objects faster
+12,Engineer,Perk3,0,0,1,"Allows you to see all enemy equipment, glowing red."
+13,Dead Silence,Perk3,1,0,1,"Makes you more silent by reducing sound made by your footsteps, jumps, and falls"
+14,Extreme Conditioning,Perk3,1,0,0,Allows you to sprint 2x longer than normal
+15,Tactical Mask,Perk3,0,1,0,"Makes you more immune to flash grenades, concussion grenades, shock charges"
+16,Awareness,Perk3,0,0,1,"Makes enemies at least 4x louder than normal, allowing you to hear their footsteps as they get closer."

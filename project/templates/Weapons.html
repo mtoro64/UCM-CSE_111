@@ -1,0 +1,64 @@
+<!-- Weapons Page -->
+<!-- Calling base.html or the navbar so we dont have to deal with the long code just impliment what is needed on this page -->
+{% extends "base.html" %}
+
+{% block title %} Home Page{% endblock %}
+
+{% block content %}
+<table>
+    <thead>
+      <tr>
+          <th>Weapons</th>
+      </tr>
+      </thead>    
+      <tbody>
+       {% for row in data %}    
+
+           <td>{{row[0]}}</td>
+                    
+        {% endfor %}
+      </tbody>
+  </table>
+
+<!-- Weapon Category -->
+  <form class="grid" action="/WeaponType" method="post">
+    <div class = "d-inline">
+    <label for = "query2">Choose the Weapon Type</label>
+   <select name="TWeapon" id="TWeapons">
+    <option value="AR">AR</option>
+    <option value="SMG">SMG</option>
+    <option value="LIGHT">LIGHT</option>
+    <option value="SHOTGUN">SHOTGUN</option>
+    <option value="SNIPER">SNIPER</option>
+    <option value="LAUNCHER">LAUNCHER</option>
+    <option value="SPECIAL">SPECIAL</option>
+</select>
+<input type="Submit" class = "file_submit" value="check">
+</div>
+</form>
+{% if Rec %}
+<table>
+    <thead>
+      <tr>
+          <th>Weapon</th>
+          <th>Category</th>
+          <th>Type</th>
+      </tr>
+      </thead>    
+      <tbody>
+       {% for row in Rec %}    
+            <tr>
+                <td>{{row[0]}}</td>
+                <td>{{row[1]}}</td>
+                <td>{{row[2]}}</td>
+            </tr>
+                  
+          {% endfor %}
+      </tbody>
+  </table>
+  
+{% endif %}
+
+<!-- Weapon Type -->
+
+{% endblock %}

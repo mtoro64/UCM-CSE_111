@@ -1,0 +1,24 @@
+Attach_ID,Attach_name,Attach_Mobility,Attach_Range,Attach_Accuracy,Attach_DMG,Attach_Desc
+1,ACOG,0,1,1,0,The ACOG (Advanced Combat Optical Gunsight) provides enhanced zoom at the cost of a slightly slower ADS time.
+2,Adjustable Stock,1,0,1,0,Allows you to move faster while aiming your weapon.
+3,Ballistics CPU,0,0,1,0,Reduces your weapons idle sway when aiming.
+4,Dual Band,0,0,1,0,Night vision scope with interlaced thermal overlay.
+5,Dual Wield,1,0,0,1,"Works like AKIMBO from the Modern Warfare series. DUAL WIELD allows you to equip 2 pistols, one in each hand, but you lose the ability to aim down the sight."
+6,Extended Clip,0,0,0,1,Increases the ammo available to your magazine by 50%.
+7,Fast Mag,1,0,0,0,"Decreases the time it takes for you to reload your weapon. Every other reload is faster than normal, since 2 magazines are taped together."
+8,FMJ,0,0,0,1,The FMJ (Full Metal Jacket) allows your weapons bullets to penetrate thicker surfaces.
+9,Fore Grip,0,0,1,0,Reduces your weapons recoil.
+10,Grenade Launcher,0,0,0,1,Allows you to shoot grenades. It's a useful tool for clearing rooms or objectives
+11,Hybrid Optic,0,1,1,0,Allows you to toggle between a Red Dot and an ACOG-equivalent scope.
+12,Iorn Sights,0,0,1,0,Removes the scope of your Sniper Rifle and replace it with an Iron Sight.
+13,Laser Sight,1,0,1,0,Works like the Steady Aim perk by increasing your hip fire accuracy; it also makes you more visible to other players due to the laser.
+14,Long Barrel,0,1,0,0,Increases your weapons range.
+15,Millimeter Scanner,0,0,1,0,"When aiming down the sight, the MILLIMETER SCANNER scans heat signatures every few seconds and allows you to see enemies through materials up to 25 meters."
+16,Quickdraw,1,0,0,0,Increases your aiming speed.
+17,Rapid Fire,0,0,0,1,Increases your weapons rate of fire by 20%.
+18,Reflex,0,1,1,0,Replaces your weapons iron sight with a precision Red Dot Sight.
+19,Select Fire,0,0,1,1,Allows you to switch to burst or automatic fire at anytime.
+20,Suppressor,0,0,0,0,Makes your weapon quieter and reduces muzzle flash. It also prevents you from showing up on the enemy radar every time you shoot.
+21,Tactical Knife,1,0,0,0,Carry a tactical knife in your off hand for faster melee attacks.
+22,Target Finder,0,1,1,0,Identified enemies and highlights them in red
+23,Variable Zoom,0,1,1,0,Sniper Rifle scope that has multiple levels of zoom.

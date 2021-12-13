@@ -1,0 +1,53 @@
+<!-- Maps Page -->
+<!-- Calling base.html or the navbar so we dont have to deal with the long code just impliment what is needed on this page -->
+{% extends "base.html" %}
+{% block title %} Home Page{% endblock %}
+{% block content %}
+<table>
+    <thead>
+      <tr>
+          <th>Maps</th>
+      </tr>
+      </thead>    
+      <tbody>
+       {% for row in data %}    
+           <td>{{row[0]}}</td> 
+        {% endfor %}
+      </tbody>
+  </table>
+
+  <form class="grid" action="/mapsize" method="post">
+    <div class = "d-inline">
+    <label for = "query1">Choose a map size</label>
+   <select name="map" id="maps">
+    <option value="S">S</option>
+    <option value="M">M</option>
+    <option value="L">L</option>
+</select>
+<input type="Submit" class = "file_submit" value="check">
+</div>
+</form>
+{% if Rec %}
+<table>
+    <thead>
+      <tr>
+          <th>Maps</th>
+          <th>Size</th>
+          <th>Location</th>
+      </tr>
+      </thead>    
+      <tbody>
+       {% for row in Rec %}    
+            <tr>
+                <td>{{row[0]}}</td>
+                <td>{{row[1]}}</td>
+                <td>{{row[2]}}</td>
+            </tr>
+                  
+          {% endfor %}
+      </tbody>
+  </table>
+  
+{% endif %}
+
+{% endblock %}

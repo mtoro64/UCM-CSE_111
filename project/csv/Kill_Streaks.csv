@@ -1,0 +1,23 @@
+KillStreak_ID,KillStreak_Name,KillStreak_Points,KillStreak_Desc
+1,UAV,350,Shows enemies on the radar as red dots for 30 seconds. The UAV can be shot down by the enemy
+2,RC-XD,450,Allows you to remote control a small car that's packed with explosives. The RC-XD can be detonated at will - enemies can also shoot to destroy it
+3,Hunter Killer,525,Deploys a flying drone that seeks out and tries to destroy the nearest enemy player or vehicle.
+4,Care Package,550,The Care Package is the same as in previous Call of Duty games: it gives you a random scorestreak / killstreak. The Care Package can be hacked by the enemy team.
+5,Counter-UAV,600,Temporarily disables the enemy radar for 30 seconds - the Counter-UAV drone can be shot down by the enemy.
+6,Guardian,650,"After the Guardian dish is deployed, it projects a microwave field that stuns enemies by slowing them down and also making their vision blurry."
+7,Hellstorm Missile0,700,The Hellstorm Missile works like the Predator Missile from the Modern Warfare series; it allows you to remotely control one missile to the ground. The missile can be scattered into a cluster bomb at will.
+8,Lightning Strike,750,A strike from the sky. You can choose three locations on the map for a coordinated strike.
+9,Sentry Gun,800,"An advanced version of the normal Sentry Gun that's been featured in previous Call of Duty games; once deployed, the Sentry Gun automatically attacks enemies. This version can, however, be remote-controlled at anytime."
+10,Death Machine,850,"Gives you a powerful minigun that can take out enemies with a couple of hits. Unlike in Black Ops, the Death Machine lasts until it runs out of ammo, even after dying - the Scorestreak can be reactivated and the ammo count is where you left off."
+11,War Machine,900,The War Machine is a semi-automatic grenade launcher with a 6 round magazine. The War Machine works like the Death Machine; it lasts until all the grenades have been used.
+12,Dragonfire,975,"Allows you to remote-control a quadrotor droid that's equipped with a lightweight machine gun. The Dragonfire is lightly armored, so it can be shot down by the enemy with ease."
+13,AGR,1000,The AGR (autonomous ground robot) is air-dropped into the battlefield and it automatically attacks enemies - it can also be remote-controlled at anytime. The AGR is heavily armored and has a powerful machine gun and a rocket launcher.
+14,Stealth Chopper,1100,"An advanced version of the normal Attack Helicopter from previous Call of Duty games. The Stealth Chopper circles around the map and hunts for enemies, but it doesn't appear on the enemy radar."
+15,Orbital VSAT,1200,Shows enemies on the radar but also the direction they are facing. It shows the enemies on the radar in real time. It can not be shot down
+16,Escort Drone,1250,The Escort Drone follows you around and will attempt to kill any enemies you encounter.
+17,EMP Systems,1300,"Temporarily disables enemy electronics, e.g. enemy players will have no HUD (head-up display) and can't call in Scorestreak rewards."
+18,Warthog,1400,Calls in an A-10 Thunderbolt that provides air support by doing several strafe runs on the map.
+19,Lodestar,1500,it allows you to launch multiple missiles from the Lodestar to the ground.
+20,VTOL Warship,1600,Allows you to be the gunner of a powerful VTOL Warship.
+21,K9,1700,Spawns multiple attack dogs that hunt down enemy players.
+22,Swarm,1900,Calls in a swarm of Hunter Killer drones that search and destroy enemies on the map.

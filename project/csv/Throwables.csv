@@ -1,0 +1,16 @@
+Throwable_ID,Throwable_Name,Throwable_Type,Throwable_Desc
+1,Grenade,Lethal,"Grenades have a short fuse and can be 'cooked' before throwing it. Doing so allows you to airburst grenades, turning them into lethal targeted explosives."
+2,Combat Axe,Lethal,The COMBAT AXE is an instantly lethal thrown weapon that can be retrieved after embedding itself in an objective - or another player.
+3,Semtex,Lethal,"The SEMTEX has explosive power identical to the grenade, but trades the ability to be cooked or rolled for a shorter fuse time and the ability to stick to any target. You can stick SEMTEX to walls, floors, ceilings, objectives, and even other players."
+4,C4,Lethal,"The C4 is a manually triggered explosive that can be attached to any wall, ceiling, or convenient vehicle. You can detonate C4 by shooting it or using the detonator."
+5,Bouncing Betty,Lethal,"The BOUNCING BETTY is a proximity explosive. When triggered, it launches itself into the air and detonates, causing an explosive blast in a 360-degree radius. It's possible to duck or go prone to avoid half or the entire explosion."
+6,Claymore,Lethal,"CLAYMORES are frontal-cone proximity explosives, detonating at ankle level. Proper placement of CLAYMORES is vital for full effectiveness."
+7,Smoke Grenade,Tactical,Useful for creating a smoke screen for moving across a covered lane of fire.
+8,Concussion,Tactical,Powerful stun weapon that stagger enemies caught in the blast radius. It slows their movement and causes aim to sway wildly.
+9,EMP Grenade,Tactical,Can disable and destroy deployed equipment - it's so powerful that it can also destroy low-flying air support within its blast radius.
+10,Sensor Grenade,Tactical,"While it's active, it emits a radar ping that detects any enemies in its radius"
+11,Flashbang,Tactical,"FLASHBANGS are powerful support tools, disabling enemies with a blinding flash of light that stops sprinting and causes total visual impairment if the grenade goes off with the target looking directly at it."
+12,Shock Charge,Tactical,Electrocutes and stuns enemies that get near it.
+13,Black Hat,Tactical,"Allows you to hack equipment and Care Packages, or disable enemy vehicles."
+14,Tactical Insertion,Tactical,The TACTICAL INSERTION allows you to set your own spawn point. Enemy TACTICAL INSERTIONS glow red and can be destroyed.
+15,Trophy System,Tactical ,"The Trophy System can intercept a wide range of enemy projectiles, including all Lethals, all Tacticals (even other Trophy Systems), Rocket Launcher missiles and Grenade Launcher grenades, and various scorestreaks"
